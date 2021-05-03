@@ -18,5 +18,5 @@ In this challenge, you will create a function that, given a list of numbers, rec
   = 1 + 1 + 1 + 1 + list_length([5,6])
   = 1 + 1 + 1 + 1 + 1 + list_length([6])
   = 1 + 1 + 1 + 1 + 1 + 1 + list_length([]) =1+1+1+1+1+1+0
-  = 6
+  = 5
 ```
